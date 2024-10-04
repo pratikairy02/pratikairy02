@@ -49,6 +49,9 @@ _An interactive dashboard using Python and Streamlit to visualize incident data.
 Feel free to reach out to me or connect via social media:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-Email: airy.pratik02@gmail.com, (+1 2342961062)
+
+![Email](https://img.shields.io/badge/✉️-Email-D14836?style=flat-square) airy.pratik02@gmail.com
+
+![Phone](https://img.shields.io/badge/📞-Phone-0A66C2?style=flat-square) +12342961062
 
 ---
