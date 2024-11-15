@@ -33,7 +33,7 @@ Here are some of the technologies and tools I use:
 
 Here’s a quick overview of some of my favorite projects:
 
-### [📊 Medium-Guide System](https://github.com/your-github-username/medium-guide-system)
+### [📊 Medi-Guide System](https://github.com/your-github-username/medium-guide-system)
 _A Python-based web app for managing medical records for clinical and home use._
 
 ### [📈 Netflix Stock Price Prediction](https://github.com/your-github-username/netflix-stock-prediction)
