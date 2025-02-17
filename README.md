@@ -29,21 +29,6 @@ Here are some of the technologies and tools I use:
 
 ---
 
-## 🛠️ Projects I've Worked On
-
-Here’s a quick overview of some of my favorite projects:
-
-### [📊 Medi-Guide System](https://github.com/your-github-username/medium-guide-system)
-_A Python-based web app for managing medical records for clinical and home use._
-
-### [📈 Netflix Stock Price Prediction](https://github.com/your-github-username/netflix-stock-prediction)
-_Predict Netflix stock prices using an LSTM model and time-series algorithms in Python._
-
-### [🚨 Incident Report Dashboard](https://github.com/your-github-username/incident-report-dashboard)
-_An interactive dashboard using Python and Streamlit to visualize incident data._
-
----
-
 ## 📬 Let's Get Connected!
 
 Feel free to reach out to me or connect via social media:
