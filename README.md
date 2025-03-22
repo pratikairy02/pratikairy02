@@ -1,6 +1,6 @@
 # Hey, I'm Pratik Airy! 👋
 
-**Data Scientist | Software Engineer | Health Informatics Enthusiast**  
+**Data Scientist | Software Engineer**  
 
 ---
 
