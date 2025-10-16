@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-Hi! I'm Pratik, a passionate data scientist and software engineer. I'm currently pursuing my **Master’s in Data Science** at Kent State University and have a strong interest in **Health Informatics Management**. With experience in **Python**, **R**, and **SQL**, I love creating interactive data-driven applications and models that solve real-world problems.
+Hi! I'm Pratik, a passionate data scientist and software engineer. I have completed my **Master’s in Data Science** at Kent State University and have a strong interest in **Data Analysis and Buisness Workflow Improvement**. With experience in **Python**, **R**, and **SQL**, I love creating interactive data-driven applications and models that solve real-world problems.
 
 ### Outside of tech, here are some things I love:
 - 🥋 **Martial Arts** – I've dabbled in practicing martial arts, which keeps me disciplined.
